@@ -1,5 +1,5 @@
-[README.md]([https://sites.google.com/view/www-invest86-index-Home-html])
-# <a href="https://sites.google.com/view/www-invest86-net/github_com-phantomtech573-invest86_net_index_html?authuser">invest86-html-txt</a>
+[README.md]([https://sites.google.com/view/www-invest86-index-Home-html]
+<a href="https://sites.google.com/view/www-invest86-net/github_com-phantomtech573-invest86_net_index_html>Home</a>
 Multi-code &amp; platform webpage doc
 <html>
   <body>
